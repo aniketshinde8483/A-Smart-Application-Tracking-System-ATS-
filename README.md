@@ -47,7 +47,7 @@ Run the Streamlit app:
 arduino
 Copy code
 streamlit run app.py
-Open your browser and go to http://localhost:8501 to use the application.
+Open your browser and go to http://localhost:8800 to use the application.
 Controls
 Use the sidebar controls to select the number of top resumes to display and to initiate various actions like ranking candidates, getting HR evaluation, and percentage match.
 Example Usage
